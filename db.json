@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "body": "sef",
+      "author": "bgfdgf",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Gull_portrait_ca_usa.jpg",
+      "id": 1
+    },
+    {
+      "body": "jnjn",
+      "author": "tfgh",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Gull_portrait_ca_usa.jpg",
+      "id": 2
+    },
+    {
+      "body": "sdgkuhiughk",
+      "author": "MOnke",
+      "image": "https://images.panda.org/assets/images/pages/welcome/orangutan_1600x1000_279157.jpg",
+      "id": 3
+    }
+  ]
+}
